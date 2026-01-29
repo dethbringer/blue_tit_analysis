@@ -1,5 +1,6 @@
 # first i will clean the data I guess and do some exploration of it
 
+#whore
 library(tidyverse)
 
 nestlings <- read_csv("nestlings.csv")
